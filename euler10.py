@@ -1,5 +1,6 @@
 import math
 
+
 class PrimeFinder() :
     def __init__(s) :
         s.primes = [2]
